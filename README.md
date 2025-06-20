@@ -1,2 +1,2 @@
 # Social Learning
-Coding Exercises of Textbook "Social Learning" with PyTorch
+Implementing the exercises from the textbook "Social Learning: Opinion Formation and Decision-Making over Graphs" using PyTorch.
